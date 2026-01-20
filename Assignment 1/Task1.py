@@ -1,0 +1,6 @@
+n1 = int(input("Enter 1st no.: "))
+n2 = int(input("Enter 2nd no.: "))
+print('Addition:',n1 + n2)
+print('Subtraction:',n1 - n2)
+print('Multiplication:',n1 * n2)
+print('Division:',n1 / n2)
