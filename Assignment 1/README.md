@@ -1,4 +1,4 @@
-Task 1 -  1. Takes two numbers as input from the user.
+Task 1 -  1. Takes two numbers as input from the user./n
           2.  Performs the basic mathematical operations on these two numbers:
                 o	Addition
                 o	Subtraction
